@@ -43,3 +43,45 @@ SとVに挟まれるのはもちろん修飾語(M)である。
 - S (<- M|M->) V
 
 の三つがある。
+
+# 1.3 (S+S)+V
+
+- Art, science and religion are the three main fields of man's creative activity.
+
+という文では3つの名詞が主語となっている。この時主語の判断は、修飾要素が加わると難しくなるので
+文の前後の意味を元に判断する必要がある。
+
+# 1.4 To不定詞、etc…V
+
+## To不定詞から始まる文
+
+- To master English is not easy.
+- To master English you must work hard.
+
+1.1においては「前置詞のついていない名詞を主語と考えて」としたが、例外的にTo不定詞(及び~ing形など)が主語になることがある。
+上の例文において前者はTo不定詞は主語(名詞的用法)だが、後者は副詞的用法の修飾語となっており、これは
+
+- 前者は`To[..] V`の形
+- 後者は`To[..] S+V`の形
+
+となっているからである。したがって、次のアルゴリズムを用いて判断する。
+
+1. to不定詞が主語か、副詞的用法かについて予想を立てる。
+2. to不定詞に続く部分が予想通りであればそのまま進み、それでなければ前に戻って解釈を変える。
+
+## ~ing形から始まる文
+
+~ing形から始まる時も、To不定詞の時と全く同じである。
+
+ ## thatから始まる文
+
+- that節はどこで終わるか
+- that節の内部はそれだけで独立した文になるか
+- that節の次に、予想通り動詞が出るか(`[That S+V]+V`の形になるか)
+
+ ## *Whetherから始まる文
+
+- Whether you may succeed or not, depend upon your own efforts.
+- Whether you will succeed or not depends upon your own efforts.
+
+ ちょっと例外的、節が終わった次の部分の構成によって定まる。
