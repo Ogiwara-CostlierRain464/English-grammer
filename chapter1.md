@@ -85,3 +85,13 @@ SとVに挟まれるのはもちろん修飾語(M)である。
 - Whether you will succeed or not depends upon your own efforts.
 
  ちょっと例外的、節が終わった次の部分の構成によって定まる。
+
+ ### to不定詞から作られるwhether
+
+ whetherという接続詞が名詞節をまとめるときは、あとに主語と動詞が続くのが原則。
+ ただし、
+
+ - I didn't know whether to laugh or to cry.
+ のように、あとに`to-`だけしか続かない形は例外として認められる。
+
+ 
