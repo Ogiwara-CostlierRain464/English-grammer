@@ -35,22 +35,23 @@ that節が主語(S)・補語(C)・目的語(O)かのいずれかのケースで�
 
 # 3.3 名詞 + that節
 
-1. He denied the fact that was known to everyone.
-2. He denied the fact that it was known to everyone.
-
 that節が主語(S)・補語(C)・目的語(O)かのいずれのケースでも無い場合について。
+
+1. `He denied the fact [that was known to everyone.]`
+2. `He denied the fact [that it was known to everyone.]`
+
 これら二文のthat節は、いずれもthe fact修飾する(M)形になっているが、次のような違いがある。
 
 ## thatが関係代名詞
 (1)の文内は今までと違い、"was known to everyone" だけでは独立した文とはならない。
 これは、thatが節をまとめる他にwasに対する主語Sとしての役割をかねているからだ。
 
-ここではthatは関係代名詞としても機能している。
+ここではthatは接続詞であり、関係代名詞としても機能している。
 
 ## that節が同格名詞節
 (2)の文はthe fact = that節という関係に支えられている。
 
-ここではthat節は同格名詞節としても機能している。
+ここではthat節は接続詞であり、同格名詞節としても機能している。
 
 # 3.4 that節 - 副詞節
 
