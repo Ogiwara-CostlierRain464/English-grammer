@@ -6,6 +6,7 @@
 
 ここで、次のような文を考えてみる
 - `He has something that I didn't have ー an idea.`
+
 今までのルールだと、`an idea`には前置詞がついていないため、これをhaveの目的語と
 考えて「彼には、私がアイデアを持っていないものがあった」と訳してしまうことになるが、これは誤りである。
 
@@ -23,6 +24,7 @@
 
 # 6.1 H + A
 - `Dr. Angle, noted authority on Abraham Lincoln, arrived in Tokyo February 14th.`
+
 では、
 `Dr. Angle`(H) = `noted authority on Abraham Lincoln`(A)
 となる。
@@ -31,9 +33,10 @@
 - Man himself is a part of Nature.
 - Man is himself a part of Nature.
 - Man is a part of Nature himself.
+
 Manと同格のhimselfが自由に動いているが、文意は変わらない。
 
--selfのつく再帰代名詞やeach,allなどの代名詞は、このように文中の諸所に主語と同格に置かれて、
+~selfのつく再帰代名詞やeach,allなどの代名詞は、このように文中の諸所に主語と同格に置かれて、
 副詞的に働くことがあり、強調などの意味で使われる。　
 
 # 6.3 H=不定詞、what節、etc.

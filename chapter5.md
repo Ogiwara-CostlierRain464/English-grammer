@@ -23,6 +23,7 @@ It is not a string of words. -> Nor is it string of words.
 
 ## 「前置詞 + 否定形 + 名詞」
 - `[At no time] does the plain look so perfect as in early autumn.`
+
 このように、否定形が文頭に出るのではなく、「前置詞 + 否定形 + 名詞」の副詞句に入っている場合には、
 
 - `The plain does not look [at any time] so perfect as in early autumn.`
@@ -37,8 +38,10 @@ Onlyも「だけ、のみ」という否定の意味を含むので、上と同�
 Onlyから始まる副詞句を適当な位置に挿入する
 
 - `[Only after a centure of confusion] was the royal authority restored.`
+
 を
 - `The royal authority was restored [only after a centure of confusion].`
+
 に。
 
 # 5.2 M+V+S, etc.
@@ -63,26 +66,33 @@ M+V+S
 の順に並んでいる時には、後に続く目的語が欠けている動詞・不定詞・動名詞、前置詞があることを考える。
 
 - This Lincoln was ready to do.
+
 不定詞`to do`の目的語が`This`の場合。
 - This Lincoln was capable of doing.
+
 動名詞`doing`の目的語が`This`の場合。
 ーAll these complaints he had to listen to.
+
 前置詞`to`の目的語が`All these complaints`の場合。
 
 # 5.4 特殊構文の倒置形
 
 ## There + V + S
 - `[There] was now revealed (to us) the gulf | between his generation and mine |.`
+
 There + V + S なので、形を戻すと
 - The gulf was now revealed to us.
+
 になる。
 毎回倒置形になるわけじゃない!
 
 ## So + S + V
 - "Are you pressed for money?" "So I am."
+
 のように、`So`は相手の発言をそのまま繰り返して(相手の発言の意味を含んで)完全な同意を示す時に使われる。
 なので、上の文では`So`は`pressed for money`を指しており、`So I am`は、
 - I am pressed for money.
+
 の意味になる。
 ここで、So+ S + Vの形になっている。
 
@@ -90,6 +100,7 @@ There + V + S なので、形を戻すと
 ## If節
 
 - I do not know what I do for relaxation if it were not for the innumerable books.
+
 のようなIf節を含む文は、If節内の助動詞・
 
 If節で始まる仮定法は、
