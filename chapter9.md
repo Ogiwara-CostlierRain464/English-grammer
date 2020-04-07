@@ -55,7 +55,13 @@ in which~などの形でないものをここでは扱う。
 
 
 # 9.3 目的格の関係詞(2)
-in which~などの形をここでは扱う。
+- 前+関係詞
+- 代名詞+前+関係詞
+- 前+名+前+関係詞
+
+など関係詞の前にいろいろつく形を扱う。
+
+## 前+関係詞
 
 - This is the house in which he lives.
 
@@ -70,6 +76,34 @@ in which~などの形をここでは扱う。
 
 2. 関係詞を先行詞で置き換える
 - He lives in the house.
+
+## 代名詞+前+関係詞
+
+- Switzerland is a land of high hills, many of which are covered with snow.
+
+ここで、
+- `many(代) of(前) [which are ~]`の構成になり、manyは関係詞節の内部と繋がって働く
+- whichはofの目的語となり、主語にはなれないので、S=many, V=are coverd となる
+
+元の二文に戻す手順は、
+1. そのまま抜き出す
+- Many of which are covered with snow.
+
+2. 関係詞を先行詞で置き換え
+- Many of high hills are covered with snow.
+
+## 前+名+前+関係詞
+- This is shorthand writing, by means of which we can keep up with the talker.
+
+ここで、
+- `, by(前) means(名) of(前) [which we can ~]`の構成になる。
+
+元の二文に戻す手順は、
+1. そのまま抜き出す
+- By means of which we can keep up with the talker.
+
+2. 関係詞を先行詞で置き換え
+- By means of shorthand writing we can keep up with the talker.
 
 #### 今日の気付き
 to不定詞はtoで始まるので副詞句だと思いがちだが、名詞としての役割をはたすのでSやCになれる。という基本。
