@@ -98,6 +98,8 @@ in which~などの形でないものをここでは扱う。
 ここで、
 - `, by(前) means(名) of(前) [which we can ~]`の構成になる。
 
+文の区切りのコンマ(,)である程度気がつけるだろう。
+
 元の二文に戻す手順は、
 1. そのまま抜き出す
 - By means of which we can keep up with the talker.
@@ -105,12 +107,66 @@ in which~などの形でないものをここでは扱う。
 2. 関係詞を先行詞で置き換え
 - By means of shorthand writing we can keep up with the talker.
 
+
+# 9.4 関係詞の省略
+関係詞が省略されていることは文を見ればなんとなく(e.g. 名詞が2つ続いていたり)わかるが、
+関係詞が省略されていると言えば、それで万事終わりというものではない。
+省略されるのは大半が目的格の関係詞で、その関係詞を目的語とする動詞または前置詞を見つけてはじめて
+関係詞の省略という解釈の正しさが確認できることになる。
+
+- I have always wondered at the passion many people have to meet the celebrated.
+
+を、「多くの人々が有名人に会わなければならない(ところの)情熱を…」
+
+と訳してしまいがちだが、
+- `many people (=S) have to meet (=V) the celebrated(=O)`
+
+と読むと、関係詞が働いておらず、読み方を誤っていると気がつける。
+正しい読み方は、
+- `Many people have which to meet the celebrated.`
+- `Many people have the passion to meet the celebrated.`
+
+となり、「多くの人々が有名人と会うことに示す情熱を、私はいつも不思議に思ってきた」と訳す。
+
+## to不定詞内の目的語になるパターン
+- `This is the sort of thing [we know life to be].`
+
+では、`to be`の目的語に省略された関係詞の指す`the sort of thing`がくる。
+
+## 主節の関係詞の省略
+主節の関係詞は省略されないのが原則であるが、
+- be動詞の補語となる場合
+- there is 構文の主語となる場合
+
+は省略される。
+- `The Thames would not be the fairyland [it is] without ~` 
+- `The Thames would not be the fairyland [that it is] without ~` 
+
+it = that = the fairylandとなり、thatはSとしてもCとしても働く。
+
+関係詞が省略されるのはだいたい
+
 #### 今日の気付き
-to不定詞はtoで始まるので副詞句だと思いがちだが、名詞としての役割をはたすのでSやCになれる。という基本。
-forは副詞句を作る前置詞としての働き意外に、判断の根拠を述べる等位接続詞として働き、
-andやbutなどと同じ働きになる。
+
+- to不定詞はtoで始まるので副詞句だと思いがちだが、名詞としての役割をはたすのでSやCになれる。という基本。
+- forは副詞句を作る前置詞としての働き意外に、判断の根拠を述べる等位接続詞として働き、andやbutなどと同じ働きになる。
 
 e.g.
 - Your earlier opinions will be changed, for this is a process of real development.
 
 `, for ~`の形式は「判断の根拠を述べる等位接続詞」になる可能性が高い。
+
+- Allを主語とする文ではAllに対する訳語をあとへ送って、「…だけである」と訳そう。　
+
+e.g. 
+- `All [I want people to say] is [that I do my best].`
+
+を、先行詞Allを代入する代わりに、thatを代入し、
+- `I want peole to say that is that I do my best.`
+
+これを訳すと、
+- 私が人に言ってもらいたいのは、私が最善をつくしているということ。
+
+になり、これにAllの意味する「…だけである」を語尾に加える。
+
+- 私が人に言ってもらいたいのは、私が最善をつくしているということだけである。
