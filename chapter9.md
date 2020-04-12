@@ -146,7 +146,7 @@ it = that = the fairylandとなり、thatはSとしてもCとしても働く。
 
 関係詞が省略されるのはだいたい
 
-#### 今日の気付き
+# 今日の気付き
 
 - to不定詞はtoで始まるので副詞句だと思いがちだが、名詞としての役割をはたすのでSやCになれる。という基本。
 - forは副詞句を作る前置詞としての働き意外に、判断の根拠を述べる等位接続詞として働き、andやbutなどと同じ働きになる。
@@ -170,3 +170,11 @@ e.g.
 になり、これにAllの意味する「…だけである」を語尾に加える。
 
 - 私が人に言ってもらいたいのは、私が最善をつくしているということだけである。
+
+- 関係詞の先行詞が単数の時はthat、複数の時はthoseをその前につけて、関係詞があとで出ることを予め示しておくことがある。
+
+e.g.
+
+- `True friendship has no illusions, for it reaches to (that) part of man's nature [that is beyond his imprefections].`
+
+ここで`(that)`は、それに続く`part`が後にある`[that is beyond]`that節の先行詞になることを示す。この種の`that(those)`は先行詞を明示するという働きしかもたず、訳す時には意味を持たない。
