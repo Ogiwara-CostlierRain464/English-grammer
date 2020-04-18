@@ -62,6 +62,15 @@ S+Vという英文の骨格をなす形の場合には、これを識別する�
 以上、その前にコンマを置くことはない。
 
 
+# 10.3 H[S]+V…M
+
+- `People say things like that every day, [educated people as well as uneducated, and chidldren as well as grown-ups].`
+
+この文のように、主語に対する述語が終わってから主語に対する修飾語が現れる形を、抽象的に表せば`H[S]+V…M`となる。
+
+それだけ。
+
+
 # 追加の文法知識
 
 ## 関係詞の制限用法と非制限用法
